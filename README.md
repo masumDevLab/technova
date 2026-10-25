@@ -6,6 +6,10 @@ checkout, orders, administration tools, and optional AI and map integrations.
 
 **Repository:** [github.com/masumDevLab/technova](https://github.com/masumDevLab/technova)
 
+## Storefront preview
+
+![TechNova storefront preview](docs/images/technova-storefront.png)
+
 ## Features
 
 - Browse, search, filter, and compare products
